@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align=center>
+
+<h2>LIE:ON</h2>
+<p>실시간 음성 거짓말 및 보이스피싱 탐지 인공지능 어플리케이션 <strong>라이온(LIE:ON)</strong></p>
+
 
 <!--
 
